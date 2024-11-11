@@ -1,0 +1,44 @@
+INTEGER ROUTINE Comp (X,Y,Z)
+
+INTEGER P;
+INTEGER K;
+INTEGER P;
+% Instructions
+Comp = 3;
+ENDR
+
+PROGRAM HelloAcad
+% Déclarations
+INTEGER A,B,C,E ; 
+INTEGER TAB DIMENSION (-10) ; 
+REAL W;
+
+% Instructions
+K=K/0;
+B = 30;
+C = 22 + W;
+
+IF(((A.GT.( B + 1)).OR.(C.EQ.TRUE))) THEN A = A - B ;
+
+WRITE (" SAISISSEZ UNE VAL"); 
+READ (A);
+WRITE ("La Valeur de A est ", A," .");
+
+ELSE A = A + B;
+ENDIF
+
+A = 0;
+DOWHILE (A.LT.10) 
+A = A + 1;
+ENDDO
+
+END
+
+
+
+
+
+
+
+
+
